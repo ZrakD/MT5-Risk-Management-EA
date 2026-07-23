@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\20\\RiskmanagemenEA\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7428065B-423C-B685-E985-F4B52BB94514}|RiskManagement\\EARiskManagement.csproj|d:\\githubnew\\20\\riskmanagemenea\\1\\riskmanagement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7428065B-423C-B685-E985-F4B52BB94514}|RiskManagement\\EARiskManagement.csproj|solutionrelative:riskmanagement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7428065B-423C-B685-E985-F4B52BB94514}|RiskManagement\\EARiskManagement.csproj|d:\\githubnew\\20\\riskmanagemenea\\1\\riskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7428065B-423C-B685-E985-F4B52BB94514}|RiskManagement\\EARiskManagement.csproj|solutionrelative:riskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\20\\RiskmanagemenEA\\1\\RiskManagement\\Form2.cs",
+              "RelativeDocumentMoniker": "RiskManagement\\Form2.cs",
+              "ToolTip": "D:\\GithubNew\\20\\RiskmanagemenEA\\1\\RiskManagement\\Form2.cs [Design]",
+              "RelativeToolTip": "RiskManagement\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T22:22:34.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\20\\RiskmanagemenEA\\1\\RiskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "RiskManagement\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\20\\RiskmanagemenEA\\1\\RiskManagement\\Program.cs",
+              "RelativeToolTip": "RiskManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T22:22:33.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
